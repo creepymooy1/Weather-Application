@@ -1,5 +1,3 @@
-# Hey Atticus, I know you didn't fully accept my bounty request, but this looked like a fun little project I could throw together and I was bored, lol. Feel free to either accept my bounty, or if this isn't what you had in mind you can also accept someone else. Hope this helps! :D
-
 # Setup instructions: Get a free API key from https://openweathermap.org/api, then install packages using 'pip install flask'. After running the python script (make sure templates folder is in the root directory of main.py's location), your web app will be available at 127.0.0.1:5000. You can also implement into any website as necessary.
 
 import requests
